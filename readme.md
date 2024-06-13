@@ -6,7 +6,7 @@ OTP Generator is a Node.js package for generating and verifying one-time passwor
 
 - **Enhanced Security**:
   - Support for a secret key for generating OTPs, adding an extra layer of security.
-  - Hashing of generated OTPs using SHA-256 for secure storage.
+  - Hashing of generated OTPs using SHA-256 for secure storage
 
 - **Improved Functionality**:
   - Configurable OTP length.
