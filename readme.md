@@ -1,6 +1,6 @@
-# OTP Generator
+# otpify
 
-OTP Generator is a Node.js package for generating and verifying one-time passwords (OTPs) with enhanced security and additional features.
+otpify is a Node.js package for generating and verifying one-time passwords (OTPs) with enhanced security and additional features.
 
 ## Features
 
