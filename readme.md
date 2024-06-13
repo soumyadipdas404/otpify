@@ -19,9 +19,9 @@ otpify is a Node.js package for generating and verifying one-time passwords (OTP
 ## Installation
 
 You can install the package via npm:
-
-npm install otp-generator
-
+```
+npm install otpify
+```
 ## Usage
 
 const { generateOTP, verifyOTP } = require('otp-generator');
