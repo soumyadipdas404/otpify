@@ -1,0 +1,8 @@
+#dependencies
+node_modules
+
+#test
+test/
+
+# does not ignore the README.md file
+!README.md
